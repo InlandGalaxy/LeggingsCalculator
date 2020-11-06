@@ -1,4 +1,5 @@
 # LeggingsCalculator
 Very ugly calculator without any ads
+This is a legacy but actually updated build of my Calculator. 
 
-This is the legacy build of my calculator. It is recommended to use the normal build.
+The normal build is getting released after a big update.
